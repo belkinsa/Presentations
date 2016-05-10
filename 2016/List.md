@@ -1,1 +1,1 @@
-- TBA: Ubuntu Membership Workshop
+- TBA: [Ubuntu Membership Workshop](https://github.com/belkinsa/Presentations/tree/master/2016/UbuntuMembershipWorkshop)
