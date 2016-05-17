@@ -2,6 +2,12 @@
 
 ## What is Ubuntu Membership?
 
+[Main Page](https://wiki.ubuntu.com/Membership)
+
+ Official Ubuntu Membership means recognition of significant and sustained contribution to Ubuntu or the Ubuntu community.
+
+ It can be done via Upstream or via work within the Ubuntu Community, such as tranlations or writing docuemenation.
+
 ### Perks
 
 ### Benefits
