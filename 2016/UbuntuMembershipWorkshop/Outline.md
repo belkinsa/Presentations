@@ -39,7 +39,7 @@ While the benefits of Membership can apply to the the individual, it also applie
  * Voting privileges to confirm Ubuntu Community Council nominations.
  * An UbuntuEmail email alias that forwards to your real email address.
  * An IRC Cloak on freenode.
- * The right to print BusinessCards with the Ubuntu logo, you will need to take care of the printing.
+ * The right to print Business Cards with the Ubuntu logo, you will need to take care of the printing.
  * Syndication on Planet Ubuntu of your Ubuntu blog.
  * An Ubuntu Member title at the Ubuntu Forums.
  * SFTP access to a Web-accessible directory on PeopleUbuntuCom
@@ -56,15 +56,18 @@ While the benefits of Membership can apply to the the individual, it also applie
 
 ### Other Stuff
 
-- What sort of contributions are counted
-- The best practices at recognizing contributions from others
-- The contribution threshold at which you should coach others toward applying for membership
-- How involved (or hands-off) to be during their application
-- How to announce when a new member applies
-- How to announce when a new member is approved
-- Ubuntu Membership via Forums contributions
+#### What sort of contributions are counted
+#### The best practices at recognizing contributions from others
+####  The contribution threshold at which you should coach others toward applying for membership
+#### How involved (or hands-off) to be during their application
+#### Ubuntu Membership via Forums contributions
 
 ## What are the steps?
 
-- Registering on LaunchPad
-- How to sign CoC
+### Registering on LaunchPad
+
+### How to sign CoC
+
+#### How to announce when a new member applies
+
+#### How to announce when a new member is approved
