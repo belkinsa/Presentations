@@ -57,17 +57,59 @@ While the benefits of Membership can apply to the the individual, it also applie
 ### Other Stuff
 
 #### What sort of contributions are counted
+
+- Please note that krama on LaunchPad isn't the biggest factor
+- Translations
+- Bugs
+- Community building
+- Being active in your LoCo
+- Writing/proofreading docuemenation
+- Artwork
+- IRC
+
 #### The best practices at recognizing contributions from others
 ####  The contribution threshold at which you should coach others toward applying for membership
 #### How involved (or hands-off) to be during their application
-#### Ubuntu Membership via Forums contributions
+
+- Write a testimonial on their wiki page
+- At the meeting, cheer for them when the time comes
+
+#### Ubuntu Membership via [Forums](https://wiki.ubuntu.com/Forums/Membership) contributions
+
+##### Qualifications
+
+You need to:
+
+ * have been active on the forums for at least six months.
+
+   * As a guideline, you need about 1,000 posts in support areas. Spam reports are included in this number.
+
+ * be helpful and encouraging to others.
+
+ * be offering some form of technical support, which can be at a basic level. (You can't get membership if you spend nearly all your time posting in the chat areas.)
+
+ * have no recent infractions or any major infractions.
+
+You **do NOT need** to be a developer or to have expert knowledge of a topic.
+
+The main thing is to be encouraging to people who are struggling, and to make sure that any advice you give is correct and up to date and promotes best practices.
 
 ## What are the steps?
 
 ### Registering on LaunchPad
 
+**I plan to screenshare this part.**
+
 ### How to sign CoC
 
-#### How to announce when a new member applies
+**I plan to screenshare this part.**
 
-#### How to announce when a new member is approved
+### How to announce when a new member applies
+
+Once you sign up for a slot on the [Boards](https://wiki.ubuntu.com/Membership/Boards), the best suggestion is to e-mail the mailing-lists of the teams that you are apart of and ask for them to write testimonial or come to cheer you on at the meeting.
+
+### How to announce when a new member is approved
+
+A member of the Board can only announce who was approved and it will be posted on the Ubuntu Weekly Newsletter.
+
+### Renewal
