@@ -100,9 +100,13 @@ The main thing is to be encouraging to people who are struggling, and to make su
 
 **I plan to screenshare this part.**
 
+[Guide](https://help.launchpad.net/YourAccount/NewAccount)
+
 ### How to sign CoC
 
 **I plan to screenshare this part.**
+
+There are a few ways to get a key and to sign the CoC with [Open GPG Key](https://help.ubuntu.com/community/GnuPrivacyGuardHowto).
 
 ### How to announce when a new member applies
 
@@ -110,6 +114,14 @@ Once you sign up for a slot on the [Boards](https://wiki.ubuntu.com/Membership/B
 
 ### How to announce when a new member is approved
 
-A member of the Board can only announce who was approved and it will be posted on the Ubuntu Weekly Newsletter.
+A member of the Board can only announce who was approved and it will be posted on the [Ubuntu Weekly Newsletter](https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/).  It almost will be this form:
+
+The following new Ubuntu Members were welcomed during the the [insert date here] Ubuntu Membership Board meeting:
+
+- Name [wiki page|Lauchpad page]
+
+[Link to Ubuntu News Mailing-list Thread]
 
 ### Renewal
+
+Once added to the team, you will get an e-mail every two (2) years asking if you want to renew your membership on LaunchPad.  There is a ??? day deadline to do something but if you miss it, you can e-mail the Membership Board and we will add you back.
