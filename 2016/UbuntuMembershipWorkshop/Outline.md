@@ -4,9 +4,9 @@
 
 [Main Page](https://wiki.ubuntu.com/Membership)
 
- Official Ubuntu Membership means recognition of significant and sustained contribution to Ubuntu or the Ubuntu community.
+ **Official Ubuntu Membership means recognition of significant and sustained contribution to Ubuntu or the Ubuntu community.**
 
- It can be done via Upstream or via work within the Ubuntu Community, such as tranlations or writing docuemenation.
+ It can be done via Upstream or via work within the Ubuntu Community, such as translations or documentation.
 
 ### Benefits
 
@@ -37,13 +37,13 @@ While the benefits of Membership can apply to the the individual, it also applie
 #### Ubuntu Community
 
  * Voting privileges to confirm Ubuntu Community Council nominations.
- * An UbuntuEmail email alias that forwards to your real email address.
+ * An Ubuntu email alias that forwards to your real email address.
  * An IRC Cloak on freenode.
  * The right to print Business Cards with the Ubuntu logo, you will need to take care of the printing.
  * Syndication on Planet Ubuntu of your Ubuntu blog.
  * An Ubuntu Member title at the Ubuntu Forums.
- * SFTP access to a Web-accessible directory on PeopleUbuntuCom
- * A certificate signed by sabdfl (Self appointed benevolent dictator for life) Mark Shuttleworth.  Example below:
+ * SFTP access to a Web-accessible directory on people.ubuntu.com
+ * A certificate signed by sabdfl (Self appointed benevolent dictator for life) Mark Shuttleworth. Example below:
 
 ![](https://wiki.ubuntu.com/Membership?action=AttachFile&do=get&target=certificate-rev1.jpg)
 
@@ -58,17 +58,19 @@ While the benefits of Membership can apply to the the individual, it also applie
 
 #### What sort of contributions are counted
 
-- Please note that krama on LaunchPad isn't the biggest factor
+- **Please note that karma on Launchpad isn't the biggest factor and will only be considered if necessary**
 - Translations
-- Bugs
+- Bug triage
+- Code
+- Quality Assurance
 - Community building
-- Being active in your LoCo
-- Writing/proofreading docuemenation
+- Being active in your Local Community Team (LoCo)
+- Writing/proofreading documentation
 - Artwork
-- IRC
+- IRC/Mailing List Support
 
 #### The best practices at recognizing contributions from others
-####  The contribution threshold at which you should coach others toward applying for membership
+#### The contribution threshold at which you should coach others toward applying for membership
 #### How involved (or hands-off) to be during their application
 
 - Write a testimonial on their wiki page
@@ -80,29 +82,29 @@ While the benefits of Membership can apply to the the individual, it also applie
 
 You need to:
 
- * have been active on the forums for at least six months.
+ * Have been active on the forums for at least six months.
 
    * As a guideline, you need about 1,000 posts in support areas. Spam reports are included in this number.
 
- * be helpful and encouraging to others.
+ * Be helpful and encouraging to others.
 
- * be offering some form of technical support, which can be at a basic level. (You can't get membership if you spend nearly all your time posting in the chat areas.)
+ * Be offering some form of technical support, which can be at a basic level. (You can't get membership if you spend nearly all your time posting in the chat areas.)
 
- * have no recent infractions or any major infractions.
+ * Have no recent infractions or any major infractions.
 
-You **do NOT need** to be a developer or to have expert knowledge of a topic.
+You do **NOT** need to be a developer or to have expert knowledge of a topic.
 
-The main thing is to be encouraging to people who are struggling, and to make sure that any advice you give is correct and up to date and promotes best practices.
+The main thing is to be encouraging to people who are struggling, and to make sure that any advice you give is correct, up to date, and promotes best practices.
 
 ## What are the steps?
 
-### Registering on LaunchPad
+### Registering on Launchpad
 
 **I plan to screenshare this part.**
 
 [Guide](https://help.launchpad.net/YourAccount/NewAccount)
 
-### How to sign CoC
+### How to sign the Ubuntu Code of Conduct (CoC)
 
 **I plan to screenshare this part.**
 
@@ -110,18 +112,18 @@ There are a few ways to get a key and to sign the CoC with [Open GPG Key](https:
 
 ### How to announce when a new member applies
 
-Once you sign up for a slot on the [Boards](https://wiki.ubuntu.com/Membership/Boards), the best suggestion is to e-mail the mailing-lists of the teams that you are apart of and ask for them to write testimonial or come to cheer you on at the meeting.
+Once you sign up for a slot on the [Boards](https://wiki.ubuntu.com/Membership/Boards), the best suggestion is to e-mail the mailing lists of the teams that you are a part of and ask for them to write a testimonial or come to cheer you on at the meeting.
 
 ### How to announce when a new member is approved
 
-A member of the Board can only announce who was approved and it will be posted on the [Ubuntu Weekly Newsletter](https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/).  It almost will be this form:
+A member of the Board can only announce who was approved and it will be posted on the [Ubuntu Weekly Newsletter](https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/). It will look similar to this:
 
 The following new Ubuntu Members were welcomed during the the [insert date here] Ubuntu Membership Board meeting:
 
-- Name [wiki page|Lauchpad page]
+- Name [wiki page|Launchpad page]
 
-[Link to Ubuntu News Mailing-list Thread]
+[Link to Ubuntu News Mailing List Thread]
 
 ### Renewal
 
-Once added to the team, you will get an e-mail every two (2) years asking if you want to renew your membership on LaunchPad.  There is a ??? day deadline to do something but if you miss it, you can e-mail the Membership Board and we will add you back.
+Once added to the team, you will get an e-mail every two (2) years asking if you want to renew your membership on Launchpad. There is a deadline to renew your membership on Launchpad, but if you miss that, e-mail the membership board and we will add you back.
