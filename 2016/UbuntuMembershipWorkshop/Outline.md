@@ -70,6 +70,17 @@ While the benefits of Membership can apply to the the individual, it also applie
 - IRC/Mailing List Support
 
 #### The best practices at recognizing contributions from others
+
+- Give public thanks (on social media, blog posts, during meetings)
+for work completed
+- Share work completed by other contributors (even if you weren't
+involved, a retweet/share goes a long way to showing people their work
+is appreciated)
+- Submit announcements/posts of good work in the community you find
+to the Ubuntu Weekly Newsletter so it can be shared with the broader
+community
+- Write a testimonial when they go for Membership
+
 #### The contribution threshold at which you should coach others toward applying for membership
 #### How involved (or hands-off) to be during their application
 
@@ -126,4 +137,4 @@ The following new Ubuntu Members were welcomed during the the [insert date here]
 
 ### Renewal
 
-Once added to the team, you will get an e-mail every two (2) years asking if you want to renew your membership on Launchpad. There is a deadline to renew your membership on Launchpad, but if you miss that, e-mail the membership board and we will add you back.
+Once added to the team, you will get an e-mail every two (2) years asking if you want to renew your membership on Launchpad. There is a deadline, which is seven (7) days, to renew your membership on Launchpad, but if you miss that, e-mail the membership board and we will add you back.
