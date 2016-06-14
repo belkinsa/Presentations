@@ -82,6 +82,9 @@ community
 - Write a testimonial when they go for Membership
 
 #### The contribution threshold at which you should coach others toward applying for membership
+
+Anyone is free to do a pull request to answer this!
+
 #### How involved (or hands-off) to be during their application
 
 - Write a testimonial on their wiki page
